@@ -1,0 +1,8 @@
+# IntelliJ project
+.idea
+*.iml
+out
+gen
+venv/
+/.mypy_cache/
+__pycache__/
